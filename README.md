@@ -23,3 +23,5 @@ The movie has 3 panels.
  - On the right, we have a projection of the locations of each particle.
  - On the top left, we have the power spectrum.
  - On the top right, we have the correlation function.
+
+Note: The notebook file is the presentation and only works with JupyterLab.
