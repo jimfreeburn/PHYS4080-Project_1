@@ -24,4 +24,4 @@ The movie has 3 panels.
  - On the top left, we have the power spectrum.
  - On the top right, we have the correlation function.
 
-Note: The notebook file is the presentation and only works with JupyterLab.
+Note: The notebook file is the presentation and only works with JupyterLab, running it line-by-line.
